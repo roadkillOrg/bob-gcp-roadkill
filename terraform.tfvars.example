@@ -1,0 +1,8 @@
+# Copy this file to terraform.tfvars and fill in your actual values
+
+project      = "your-gcp-project-id"
+host_project = "your-shared-vpc-host-project-id"
+
+# Optional overrides
+# region         = "us-west1"
+# ce_machine_type = "n1-standard-1"
